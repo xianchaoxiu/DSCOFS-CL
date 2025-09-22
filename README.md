@@ -1,6 +1,6 @@
 # DSCOFS-CL
 
-The code in this toolbox implements "Unsupervised Feature Selection via Sparse and Low-rank Contrastive Learning". 
+The code in this toolbox implements "Unsupervised Feature Selection via Sparse and Low-Rank Contrastive Learning" by <i>X. Xiu, A. Yang, X. Li</i>.
 
 
 ### Testing
